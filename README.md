@@ -2,7 +2,7 @@
 
 ### Move with less impact.
 
-**EcoRoute ** helps you compare driving routes not just by **time and distance, but also by their environmental impact**.
+**EcoRoute** helps you compare driving routes not just by **time and distance, but also by their environmental impact**.
 
 Two routes can take you to the same destination while producing different amounts of fuel consumption and vehicle emissions. EcoRoute makes this trade-off visible by comparing **fastest, cleanest, and balanced routes** and estimating their **CO₂ and NO₂ emissions** based on your selected vehicle.
 
@@ -10,7 +10,7 @@ Two routes can take you to the same destination while producing different amount
 
 ---
 
-## 🚗 Why EcoRoute?
+## Why EcoRoute?
 
 Most navigation systems focus primarily on getting you to your destination as quickly as possible.
 
